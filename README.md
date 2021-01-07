@@ -3,4 +3,4 @@
 
 [Реферат](https://allenykh.github.io/IoT-report) 
 
-[Отчёт по практической работе](https://github.com/Allenykh/IoT-report/edit/main/docs/index.md) 
+[Отчёт по практической работе]( https://allenykh.github.io/report/) 
